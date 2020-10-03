@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "target": "es5",
+    "lib": ["esnext"],
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "pretty": true,
+    "sourceMap": true,
+    "noImplicitAny": false
+  },
+  "include": ["src"]
+}
