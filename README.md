@@ -4,8 +4,8 @@
 
 ## Node.js Templates
 
-- [Express with Babel](https://github.com/Leyka/starter-templates/tree/main/node-express-babel)
-- [Express with TypeScript](https://github.com/Leyka/starter-templates/tree/main/node-express-typescript)
+- [Express with Babel](https://github.com/Leyka/starter-templates/tree/main/express-babel)
+- [Express with TypeScript](https://github.com/Leyka/starter-templates/tree/main/express-typescript)
 
 ### What's next ?
 
