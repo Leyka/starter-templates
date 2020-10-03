@@ -6,6 +6,7 @@
 
 - [Express with Babel](https://github.com/Leyka/starter-templates/tree/main/express-babel)
 - [Express with TypeScript](https://github.com/Leyka/starter-templates/tree/main/express-typescript)
+- [React with TypeScript/Parcel](https://github.com/Leyka/starter-templates/tree/main/react-typescript-parcel)
 
 ### What's next ?
 

@@ -1,5 +1,5 @@
 {
-  "name": "type-project-name-here",
+  "name": "express-babel-template",
   "private": true,
   "scripts": {
     "start": "nodemon --exec babel-node src/app.js",
