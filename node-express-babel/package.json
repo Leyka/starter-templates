@@ -1,0 +1,23 @@
+{
+  "name": "type-project-name-here",
+  "private": true,
+  "scripts": {
+    "start": "nodemon --exec babel-node src/app.js",
+    "clean": "rimraf ./dist",
+    "build": "npm run clean && babel src/app.js --out-file ./dist/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "nodemon": "^2.0.4",
+    "rimraf": "^3.0.2"
+  }
+}
